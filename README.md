@@ -1,8 +1,10 @@
 # tugas-besar-bengkel-kendaraan
 Pemrograman C++
+
 # Buat TokoBengkel.exe
 Build Program
 $ g++ TokoBengkel.cpp -o TokoBengkel
+
 # CARA MENJALANKAN PEMROGRAMAN
 $ ./TokoBengkel.exe
 1 Enter program saat sudah dijalankan
@@ -12,6 +14,8 @@ $ ./TokoBengkel.exe
 5 pilih jumlah layanan (maksimal 7)
 6 pilih layanan sesuai nomor
 7 nota akan muncul
+
+
 =====Bengkel Universitas Muhammadiyah=====                                                            
     
 =====Selamat Datang di Bengkel Terbaik Pilihan Anda=====
