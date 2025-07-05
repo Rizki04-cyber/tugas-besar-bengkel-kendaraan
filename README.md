@@ -4,9 +4,10 @@ Pemrograman C++
 # Buat TokoBengkel.exe
 Build Program
 $ g++ TokoBengkel.cpp -o TokoBengkel
-
+ 
 # CARA MENJALANKAN PEMROGRAMAN
 $ ./TokoBengkel.exe
+
 1 Enter program saat sudah dijalankan
 2 input nama pelanggan
 3 input plat nomor kendaraan
